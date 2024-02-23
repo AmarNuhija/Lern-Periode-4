@@ -4,10 +4,10 @@
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP4?
+1. Im moment habe ich gute Noten, MySQL hat mir sehr gefallen. Allgemein hat mir auch das letzte Modul M117 über Netzinfrastruktur gefallen. 
+2. Ich hatte ein Ziel, insbesondere mein Tic-Tac-Toe spiel fertigstellen, was ich am ende auch noch erreicht habe. 
+3. Ich habe mir vorgenommen dictionaries und vielleicht noch JSON anschauen.
+4. Dieses Ziel steht noch offen was für ein Projekt ich mich widmen möchte.
 
 ## 20.2.2024
 
@@ -15,9 +15,11 @@
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Dictionaries bearbeiten
+- [ ] Ein bisschen Zeit nehmen um Englisch zu lernen für Dienstag
+- [ ] Alle vorgestellten Themen zu C# anschauen
+- [ ] JSON und wenn noch Zeit übrig bleibt await und async
+
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
