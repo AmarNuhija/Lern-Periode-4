@@ -25,8 +25,9 @@ Heute habe ich wie immer normal gearbeitet, aber diesmal habe ich meine Kopfhör
 | Testfall-Nummer | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- |  -------------- | -------------- | --------|
 | 1               | Sobald C# starten                |  Dog wird gezeigt              | Ja        |
-| ...             |                 |                |         |
-| 4               |                 |                |         |
+| 2               | Einen URL-Pfad reinkopieren                | Dog wird erneut gezeigt               | Ja, knapp       |
+| 3               | Eine Dictionary erstellen                | Zeige Rookie spielername und Jahr               | Ja        |
+| 4 |  Eine Dictionary erstellen | Zeige alle Wünsche von 3 verschiedenen Personen | Ja |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
