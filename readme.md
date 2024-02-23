@@ -11,7 +11,8 @@
 
 ## 20.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+## Leit-Satz
+Heute habe ich wie immer normal gearbeitet, aber diesmal habe ich meine Kopfhörer mitgenommen, um mich besser auf meine Aufgaben konzentrieren zu können - und das war erfolgreich. Ich habe mir heute auch die Zeit genommen, an den Projekten/Themen zu arbeiten, die Herr Colic vorgeschlagen hat. Vor allem das Arbeiten mit dem Dictionary ist mir gut gelungen; ich habe es beim ersten Versuch verstanden und konnte sogar ohne die Hilfe von ChatGPT-Seiten etwas mit dem Dictionary erstellen. Danach habe ich mich einer etwas anspruchsvolleren Aufgabe gewidmet: async und await. Das hat mir zunächst einige kleinere Schwierigkeiten bereitet, die ich jedoch erfolgreich überwinden konnte. Nach ein paar Versuchen und Problemen mit dem Kopieren des Pfads habe ich auch das am Ende verstanden und gemeistert. Trotzdem plane ich, mich nächste Woche erneut hinzusetzen, um async und await zu überprüfen und wenn möglich zu wiederholen.
 
 ## 27.2.2024
 
@@ -21,11 +22,11 @@
 - [ ] JSON und wenn noch Zeit übrig bleibt await und async
 
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| Testfall-Nummer | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- |  -------------- | -------------- | --------|
+| 1               | Sobald C# starten                |  Dog wird gezeigt              | Ja        |
+| ...             |                 |                |         |
+| 4               |                 |                |         |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
