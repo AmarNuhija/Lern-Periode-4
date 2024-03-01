@@ -54,7 +54,6 @@ Heute habe ich versucht, einen Discord-Bot zu erstellen, was mir am Ende tatsäc
 | Testfall-Nummer | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- |  -------------- | -------------- | --------|
 |     1            | Sobald C# gestarte wird |Bot wird gestartet|Ja|
-|     1            |    ----------           |
 |     2            |    ----------           |
 |     3            |    ----------           |
 |     4            |    ----------           |
