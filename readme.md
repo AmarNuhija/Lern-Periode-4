@@ -9,12 +9,12 @@
 3. Ich habe mir vorgenommen dictionaries und vielleicht noch JSON anschauen.
 4. Dieses Ziel steht noch offen was für ein Projekt ich mich widmen möchte.
 
-## 20.2.2024
+## 23.2.2024
 
 ## Leit-Satz
 Heute habe ich wie immer normal gearbeitet, aber diesmal habe ich meine Kopfhörer mitgenommen, um mich besser auf meine Aufgaben konzentrieren zu können - und das war erfolgreich. Ich habe mir heute auch die Zeit genommen, an den Projekten/Themen zu arbeiten, die Herr Colic vorgeschlagen hat. Vor allem das Arbeiten mit dem Dictionary ist mir gut gelungen; ich habe es beim ersten Versuch verstanden und konnte sogar ohne die Hilfe von ChatGPT-Seiten etwas mit dem Dictionary erstellen. Danach habe ich mich einer etwas anspruchsvolleren Aufgabe gewidmet: async und await. Das hat mir zunächst einige kleinere Schwierigkeiten bereitet, die ich jedoch erfolgreich überwinden konnte. Nach ein paar Versuchen und Problemen mit dem Kopieren des Pfads habe ich auch das am Ende verstanden und gemeistert. Trotzdem plane ich, mich nächste Woche erneut hinzusetzen, um async und await zu überprüfen und wenn möglich zu wiederholen. (145 Wörter)
 
-## 27.2.2024
+## 01.2.2024
 
 - [ ] Dictionaries bearbeiten
 - [ ] Ein bisschen Zeit nehmen um Englisch zu lernen für Dienstag
@@ -29,7 +29,21 @@ Heute habe ich wie immer normal gearbeitet, aber diesmal habe ich meine Kopfhör
 | 3               | Eine Dictionary erstellen                | Zeige Rookie spielername und Jahr               | Ja        |
 | 4 |  Eine Dictionary erstellen | Zeige alle Wünsche von 3 verschiedenen Personen | Ja |
 
-✍️ Heute habe ich... (50-100 Wörter)
+
+
+## Grob-Planung
+
+1. Wir haben MSSQL Test zurück bekommen und bin sher zufrieden mit meiner Leistung. Trotzdem werde ich nochmals Daten modellieren im grössenren Mass.
+2. Auch haben wir M117 zurück bekommen, dort bin ich auch sehr zufrieden. Viel programmiertechnisches gibt es dort nichts zu machen.
+3. Leider konnte ich letzte Woche JSON nicht in Betracht ziehen, das wird sich für diese Session ändern.
+4. Zu guter letzt werde ich versuchen einen Discord-Bot zu erstellen.
+
+## 01.2.2024
+
+## Leit-Satz
+
+
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
