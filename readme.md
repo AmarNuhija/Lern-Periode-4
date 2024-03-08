@@ -61,3 +61,31 @@ Heute habe ich versucht, einen Discord-Bot zu erstellen, was mir am Ende tatsäc
 
 
 
+## Grob-Planung 
+
+1. Heute war leider nicht so Produktiv und ich konnte auch nicht wie Geplannt früher Arbeiten da ich meinen Zug verpasst habe.
+2. Trotzdem noch an meinen Discord-Bot weiter gearbeitet.
+3. Ein grosses Problem war das ich meine cs files nicht mehr auf Visual Studios öffnen konnte.
+4. Wirklich produktiv war ich eher beim lernen für die Test die wir am Montag haben.
+
+## 08.3.2024
+
+## Leit-Satz
+
+Heute war ich nicht wirklich produktiv, denn auch allgemein ging es mir nicht so gut aber das hat mich nicht abgehalten mein Skript weiter zu schreiben und mein Discord-Bot zu schreiben. Nebenbei habe ich noch ein sehr einfaches Projekt erstellt, das einen Punkt, sagen wir einfach mal den Buchstaben X, auf ein kleines Feld laufen lässt und man kann dann diese Variable oder diesen Buchstaben mit den Key´s WASD steuern. Wie sch on gesagt nicht so spannend aber dafür hatte ich was zu tun und das ist das was am schluss auch wichtig ist. Die Wishliste ist auch erstellt, die war eigentlich mehrheitlich ohne grosse Porbleme mit Dictionaries. Ich habe auch eigentlich schon Commands für meinen Discord-Bot erstellt, doch diese konnten nicht erfolgreich ausgeführt werden deswegen gibt es diesmal auch keien Testfälle dazu, weil ich nicht schreiben kann über was. (140 Wörter)
+
+## Für den 15.3.2024
+
+- [ ] Immer noch am Discord-Bot dranbleiben
+- [ ] Erneut lernen für die Schule
+- [ ] Wenn mölgich dann eine API erstellen von einer Wetterapp
+- [ ] Wenn möglich das Problem mit Visual Studios fixen
+
+
+
+
+
+
+
+
+
