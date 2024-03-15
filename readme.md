@@ -16,10 +16,10 @@ Heute habe ich wie immer normal gearbeitet, aber diesmal habe ich meine Kopfhör
 
 ## Für den 01.3.2024
 
-- [ ] Dictionaries bearbeiten
-- [ ] Ein bisschen Zeit nehmen um Englisch zu lernen für Dienstag
-- [ ] Alle vorgestellten Themen zu C# anschauen
-- [ ] JSON und wenn noch Zeit übrig bleibt await und async
+- [X] Dictionaries bearbeiten
+- [X] Ein bisschen Zeit nehmen um Englisch zu lernen für Dienstag
+- [X] Alle vorgestellten Themen zu C# anschauen
+- [X] JSON und wenn noch Zeit übrig bleibt await und async
 
 
 | Testfall-Nummer | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -45,9 +45,9 @@ Heute habe ich wie immer normal gearbeitet, aber diesmal habe ich meine Kopfhör
 Heute habe ich versucht, einen Discord-Bot zu erstellen, was mir am Ende tatsächlich gelungen ist, dank eines Tutorials. Doch er ist noch lange nicht fertig, denn ich werde diesem Bot noch bestimmte Befehle und Aufgaben hinzufügen. Heute ist mir meine Arbeit insgesamt ziemlich gut gelungen, würde ich sagen. Sowohl zuhause als auch letzte Woche konnte ich gut an meinen Arbeitspaketen weiterarbeiten. Dictionaries habe ich schon letztes Mal erfolgreich eingesetzt, also habe ich sie heute mit JSON und dem Discord-Bot ersetzt. Auch "async" und "await" habe ich heute für mein Programm verwendet. Ich konnte zwar nicht die vorgestellten Themen der letzten Woche erarbeiten, doch das hat mich nicht daran gehindert, trotzdem C# zu verwenden.(87 Wörter)
 
 ## Für den 08.3.2024
-- [ ] Einen weiteren Discord-Bot
-- [ ] Kleine Zeit nutzen fürs Lernen Kanti
-- [ ] Wishlist erstellen für meine Freunde.
+- [X] Einen weiteren Discord-Bot
+- [X] Kleine Zeit nutzen fürs Lernen Kanti
+- [X] Wishlist erstellen für meine Freunde.
 - [ ] HTML-Übungen oder besser gesagt grobtutorials
 
 
@@ -76,10 +76,10 @@ Heute war ich nicht wirklich produktiv, denn auch allgemein ging es mir nicht so
 
 ## Für den 15.3.2024
 
-- [ ] Immer noch am Discord-Bot dranbleiben
-- [ ] Erneut lernen für die Schule
+- [X] Immer noch am Discord-Bot dranbleiben
+- [X] Erneut lernen für die Schule
 - [ ] Wenn mölgich dann eine API erstellen von einer Wetterapp
-- [ ] Wenn möglich das Problem mit Visual Studios fixen
+- [X] Wenn möglich das Problem mit Visual Studios fixen
 
 
 ## Grob-Planung
