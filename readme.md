@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-1. Im moment habe ich gute Noten, MySQL hat mir sehr gefallen. Allgemein hat mir auch das letzte Modul M117 über Netzinfrastruktur gefallen. 
+1. Im moment habe ich gute Noten, MSSQL hat mir sehr gefallen. Allgemein hat mir auch das letzte Modul M117 über Netzinfrastruktur gefallen. 
 2. Ich hatte ein Ziel, insbesondere mein Tic-Tac-Toe spiel fertigstellen, was ich am ende auch noch erreicht habe. 
 3. Ich habe mir vorgenommen dictionaries und vielleicht noch JSON anschauen.
 4. Dieses Ziel steht noch offen was für ein Projekt ich mich widmen möchte.
