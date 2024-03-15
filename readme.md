@@ -42,7 +42,7 @@ Heute habe ich wie immer normal gearbeitet, aber diesmal habe ich meine Kopfhör
 
 ## Leit-Satz
 
-Heute habe ich versucht, einen Discord-Bot zu erstellen, was mir am Ende tatsächlich gelungen ist, dank eines Tutorials. Doch er ist noch lange nicht fertig, denn ich werde diesem Bot noch bestimmte Befehle und Aufgaben hinzufügen. Heute ist mir meine Arbeit insgesamt ziemlich gut gelungen, würde ich sagen. Sowohl zuhause als auch letzte Woche konnte ich gut an meinen Arbeitspaketen weiterarbeiten. Dictionaries habe ich schon letztes Mal erfolgreich eingesetzt, also habe ich sie heute mit JSON und dem Discord-Bot ersetzt. Auch "async" und "await" habe ich heute für mein Programm verwendet. Ich konnte zwar nicht die vorgestellten Themen der letzten Woche erarbeiten, doch das hat mich nicht daran gehindert, trotzdem C# zu verwenden.
+Heute habe ich versucht, einen Discord-Bot zu erstellen, was mir am Ende tatsächlich gelungen ist, dank eines Tutorials. Doch er ist noch lange nicht fertig, denn ich werde diesem Bot noch bestimmte Befehle und Aufgaben hinzufügen. Heute ist mir meine Arbeit insgesamt ziemlich gut gelungen, würde ich sagen. Sowohl zuhause als auch letzte Woche konnte ich gut an meinen Arbeitspaketen weiterarbeiten. Dictionaries habe ich schon letztes Mal erfolgreich eingesetzt, also habe ich sie heute mit JSON und dem Discord-Bot ersetzt. Auch "async" und "await" habe ich heute für mein Programm verwendet. Ich konnte zwar nicht die vorgestellten Themen der letzten Woche erarbeiten, doch das hat mich nicht daran gehindert, trotzdem C# zu verwenden.(87 Wörter)
 
 ## Für den 08.3.2024
 - [ ] Einen weiteren Discord-Bot
@@ -80,6 +80,35 @@ Heute war ich nicht wirklich produktiv, denn auch allgemein ging es mir nicht so
 - [ ] Erneut lernen für die Schule
 - [ ] Wenn mölgich dann eine API erstellen von einer Wetterapp
 - [ ] Wenn möglich das Problem mit Visual Studios fixen
+
+
+## Grob-Planung
+
+1. Ich komme gut voran in den Modulen jeweils am Montag und Mittwoch.
+2. Auch im Lern-Atellier kann ich mich mit verschiedenen themen beschäftigen.
+3. Heute gabs aber viel weniger Probleme werden dem Verarbeiten von meinem Programm.
+4. Am ende werde ich noch versuchen weiter mit Dictionarys zu arbeiten.
+
+## 15.3.2024
+
+## leit-Satz
+
+Heute war ich wieder deutlich produktiver als letzte Woche, da die Motivation zurückgekehrt ist und auch das Erarbeiten selbst mir viel Spaß gemacht hat. Die Themen rund um async und await beherrsche ich bereits sehr gut. Doch diesmal habe ich Dictionarys besser angewendet und auch bei anderen Zwecken genutzt, beispielsweise für die Auswahl mehrerer Elemente oder für die Verwaltung von Krankheiten, wie in meinem Beispiel. Tatsächlich habe ich mich nicht wirklich auf das Lernen für die Schule in Aarau konzentriert, da ich mich voll und ganz auf das Programmieren fokussieren wollte.(71 Wörter)
+
+## Für den 22.3.2024
+
+- [ ] Weiter Snake Spiel arbeiten.
+- [ ] Modul 187 weiterarbeiten
+- [ ] Modul 106 weiterarbeiten
+- [ ] API benutzen aber nicht nur für eine Wetterapp
+
+
+| Testfall-Nummer | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- |  -------------- | -------------- | --------|
+|     1            | Sobald C# gestartet wird| Dann startet sich das Programm|Ja|
+|     2            | Sobald man Bauchschmerzen eingibt| Symptome werden angeziegt|Ja|
+|     3            | Sobald anfrage fertig ist| Wird gefragt ob man es heilen möchte|Ja|           
+|     4            | Wenn Ja| Dann wird empfohlen das man eine Tablette nehmen soll|Ja|           
 
 
 
