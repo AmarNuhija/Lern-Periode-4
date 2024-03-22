@@ -126,9 +126,19 @@ Heute war ich wieder deutlich produktiver als letzte Woche, da die Motivation zu
 
 Heute habe ich mir genug Zeit gegeben, um das Snake Spiel zu erarbeiten, damit ich mein Wissen wirklich nochmals durch die Decke schiessen kann und neue Funktionen kennenlernen kann. Doch diesmal habe ich die Module rausgelassen und durch API ersetzt. Obwohl ich keine (Web) API erstellt habe, zog ich mir ein paar Videos rein, um potentiell für die Zukunft safe zu sein und zu wissen, was mich dort erwartet. Sprich ich habe ungefähr 2 Lektionen für Snake Spiel verbraucht und dazu noch versucht -besser gesagt ich bin dran- ein Hangman Spiel zu erstellen mit C# und der Hilfe eines Tutorials und ChatGPT. Trotzdem verlief es ganz Fehlerhaft und es hat mir diesmal auch mehr Spass gemacht ohne Probleme.(84 Wörter)
 
+## Für den 5.4.2024
+
+- [ ] API erstellen
+- [ ] 1-stündigen HTML Kurs
 
 
-
+| Testfall-Nummer | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- |  -------------- | -------------- | --------|
+|     1            | Sobald C# startet| Dann startet sich das Programm|Ja|
+|     2            | Sobald man WASD drückt| Bewegt sich die (Schlange) |Ja|
+|     3            | Sobald man Fruit einsammelt| Dann verlängert sich die Schlange |Ja|           
+|     4            | Sobald aus Border raus geht| Schliesst sich das Programm|Ja| 
+|     5            | Sobald man verloren hat | Erscheint "GameOver!" auf screen |Leider nein|
 
 
 
