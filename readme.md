@@ -85,7 +85,7 @@ Heute war ich nicht wirklich produktiv, denn auch allgemein ging es mir nicht so
 ## Grob-Planung
 
 1. Ich komme gut voran in den Modulen jeweils am Montag und Mittwoch.
-2. Auch im Lern-Atellier kann ich mich mit verschiedenen themen beschäftigen.
+2. Auch im Lern-Atellier kann ich mich mit verschiedenen Themen beschäftigen.
 3. Heute gabs aber viel weniger Probleme werden dem Verarbeiten von meinem Programm.
 4. Am ende werde ich noch versuchen weiter mit Dictionarys zu arbeiten.
 
@@ -109,6 +109,22 @@ Heute war ich wieder deutlich produktiver als letzte Woche, da die Motivation zu
 |     2            | Sobald man Bauchschmerzen eingibt| Symptome werden angeziegt|Ja|
 |     3            | Sobald anfrage fertig ist| Wird gefragt ob man es heilen möchte|Ja|           
 |     4            | Wenn Ja| Dann wird empfohlen das man eine Tablette nehmen soll|Ja|           
+
+
+
+
+## Grob-Planung
+
+1. Bei denn Modulen komme ich sehr gut voran, sprich an freitagen werde ich mich aufs Programmieren konzentrieren.
+2. Diesmal gab es wirklich null Probleme beim erarbeiten meiner Projekte was mich überrascht hat.
+3. Ich habe mich auch voll und ganz auf mein Snake Spiel konzentriert, was auch mein Wissen stark gefördert hat.
+4. Die API habe ich für diese Session weggelassen.
+
+## 22.3.2024
+
+## Leit-Satz
+
+Heute habe ich mir genug Zeit gegeben, um das Snake Spiel zu erarbeiten, damit ich mein Wissen wirklich nochmals durch die Decke schiessen kann und neue Funktionen kennenlernen kann. Doch diesmal habe ich die Module rausgelassen und durch API ersetzt. Obwohl ich keine (Web) API erstellt habe, zog ich mir ein paar Videos rein, um potentiell für die Zukunft safe zu sein und zu wissen, was mich dort erwartet. Sprich ich habe ungefähr 2 Lektionen für Snake Spiel verbraucht und dazu noch versucht -besser gesagt ich bin dran- ein Hangman Spiel zu erstellen mit C# und der Hilfe eines Tutorials und ChatGPT. Trotzdem verlief es ganz Fehlerhaft und es hat mir diesmal auch mehr Spass gemacht ohne Probleme.(84 Wörter)
 
 
 
