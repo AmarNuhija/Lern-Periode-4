@@ -1,122 +1,87 @@
-﻿using System.Net.Http.Headers;
+﻿using System;
 
-namespace SnakeGameReaL
+namespace HangmanGame
 {
-     class Program
+    class Program
     {
-        int Hight = 10;
-        int Widht = 30;
+        static string[] words = { "haus", "tisch", "stuhl", "auto", "schule", "hund", "katze", "ball", "baum", "blume", "sonne", "mond", "fluss", "see", "brücke", "fenster", "tür", "buch", "papier", "feder", "apfel", "birne", "banane", "orange", "erdbeere", "tomate", "kartoffel", "zwiebel", "käse", "brot", "milch", "butter", "ei", "fleisch", "fisch", "salat", "suppe", "kaffee", "tee", "wasser", "wein", "bier", "saft", "zucker", "salz", "pfeffer", "messer", "löffel", "gabel", "teller" };
+        static Random random = new Random();
+        static string wordToGuess = words[random.Next(words.Length)];
+        static char[] guessedLetters = new char[wordToGuess.Length];
+        static int attemptsLeft = 5;
 
-        int[] X = new int[50];
-        int[] Y = new int[50];
-
-        int fruitX;
-        int fruitY;
-
-        int parts = 3;
-
-        ConsoleKeyInfo keyInfo = new ConsoleKeyInfo();
-        char key = 'W';
-
-        Random rnd = new Random();
-
-        Program()
-        {
-            X[0] = 5;
-            Y[1] = 5;
-            Console.CursorVisible = false;
-             fruitX = rnd.Next(2, (Widht - 2));
-             fruitY = rnd.Next(2,(Hight - 2));
-        }
-        public void WriteBoard()
-        {
-            Console.Clear();
-            for (int i = 1; i <= (Widht + 2); i++)
-            {
-                Console.SetCursorPosition(i, 1);
-                Console.Write("-");
-            }
-            for (int i = 1; i <= (Widht + 2); i++)
-            {
-                Console.SetCursorPosition(i, (Hight+2));
-                Console.Write("-");
-            }
-            for (int i = 1; i <= (Hight + 1); i++)
-            {
-                Console.SetCursorPosition(1, i);
-                Console.Write("|");
-            }
-            for (int i = 1; i <= (Hight + 1); i++)
-            {
-                Console.SetCursorPosition((Widht+2), i);
-                Console.Write("|");
-            }
- 
-        }
-        public void Input()
-        {
-            if(Console.KeyAvailable)
-            {
-                keyInfo = Console.ReadKey(true);
-                key = keyInfo.KeyChar;
-            }
-        }
-        public void WritePoint(int x,int y)
-        {
-            Console.SetCursorPosition(x, y);
-            Console.Write("I");
-        }
-        public void Logic()
-        {
-            if (X[0] == fruitX)
-            {
-                if (Y[0] == fruitY)
-                {
-                    parts++;
-                        fruitX = rnd.Next(2, (Widht - 2));
-                        fruitY = rnd.Next(2,(Hight - 2));
-                }
-            }
-            for (int i = parts; i > 1; i--)
-            {
-                X[i-1] = X[i-2];
-                Y[i-1] = Y[i-2];
-            }
-            switch (key)
-            {
-                case 'w':
-                    Y[0]--;
-                        break;
-                case 's':
-                    Y[0]++;
-                    break;
-                case 'd':
-                    X[0]++;
-                    break;
-                case 'a':
-                    X[0]--;
-                    break;
-            }
-            for (int i = 0; i <= (parts - 1); i++)
-            {
-                WritePoint(X[i], Y[i]);
-                WritePoint(fruitX, fruitY);
-            }
-            Thread.Sleep(100);
-        }
         static void Main(string[] args)
         {
+            InitializeGuessedLetters();
+            Console.WriteLine("Welcome to Hangman!");
+            Console.WriteLine("Guess the word:");
+            DisplayWord();
 
-        Program snake = new Program();
-            while (true)
+            while (attemptsLeft > 0 && !WordGuessed())
             {
-                snake.WriteBoard();
-                snake.Input();
-                snake.Logic();
-            }
-                Console.ReadKey();
-            
+                Console.WriteLine($"\nAttempts left: {attemptsLeft}");
+                Console.Write("Enter a letter: ");
+                char letter = Console.ReadLine().ToLower()[0];
 
+                if (IsLetterInWord(letter))
+                {
+                    Console.WriteLine("Correct!");
+                }
+                else
+                {
+                    Console.WriteLine("Incorrect!");
+                    attemptsLeft--;
+                }
+
+                Console.WriteLine();
+                DisplayWord();
+            }
+
+            if (WordGuessed())
+            {
+                Console.WriteLine("\nCongratulations! You guessed the word!");
+            }
+            else
+            {
+                Console.WriteLine("\nGame over! You ran out of attempts.");
+                Console.WriteLine($"The word was: {wordToGuess}");
+            }
+        }
+
+        static void InitializeGuessedLetters()
+        {
+            for (int i = 0; i < guessedLetters.Length; i++)
+            {
+                guessedLetters[i] = '_';
+            }
+        }
+
+        static void DisplayWord()
+        {
+            foreach (char letter in guessedLetters)
+            {
+                Console.Write(letter + " ");
+            }
+            Console.WriteLine();
+        }
+
+        static bool WordGuessed()
+        {
+            return Array.IndexOf(guessedLetters, '_') == -1;
+        }
+
+        static bool IsLetterInWord(char letter)
+        {
+            bool foundLetter = false;
+            for (int i = 0; i < wordToGuess.Length; i++)
+            {
+                if (wordToGuess[i] == letter)
+                {
+                    guessedLetters[i] = letter;
+                    foundLetter = true;
+                }
+            }
+            return foundLetter;
         }
     }
 }
