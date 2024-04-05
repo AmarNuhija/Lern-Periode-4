@@ -142,8 +142,8 @@ Heute habe ich mir genug Zeit gegeben, um das Snake Spiel zu erarbeiten, damit i
 
 
 
-## Reflexion LP4 
-# 05.04.2024
+# Reflexion LP4 
+## 05.04.2024
 
 In dieser Periode habe ich eine Menge erreicht und mich wirklich auf meine Programmierprojekte konzentriert. Ich habe meine Zeit effektiv genutzt, indem ich mir klare Ziele gesetzt habe und mich darauf konzentriert habe, sie zu erreichen. Ein wichtiger Teil davon war das Tragen meiner Kopfhörer während der Arbeit, was mir geholfen hat, mich besser zu konzentrieren und produktiver zu sein.
 
@@ -154,15 +154,15 @@ Was die Projekte angeht, habe ich mich nicht auf eine einzige Sache konzentriert
 Insgesamt war diese Periode eine Zeit des Wachstums und der Entwicklung für mich. Ich habe nicht nur meine technischen Fähigkeiten verbessert, sondern auch gelernt, mich besser zu organisieren und mich auf meine Ziele zu konzentrieren. Ich freue mich darauf, in Zukunft noch mehr zu lernen und mich weiterzuentwickeln.
 
 
-## Verbesserungsvorschläge LP4
-# 05.04.2024
+# Verbesserungsvorschläge LP4
+## 05.04.2024
 
 Ein Verbesserungsvorschlag für zukünftige Perioden könnte sein, sich darauf zu konzentrieren, eine klarere Struktur in die Projekte einzubringen. Das bedeutet, vor Beginn jedes Projekts oder Themas klare Ziele und Meilensteine festzulegen. Dadurch wird es einfacher, den Fortschritt zu verfolgen und sicherzustellen, dass keine wichtigen Aspekte übersehen werden. Darüber hinaus könnten regelmäßige Überprüfungen des Fortschritts helfen, eventuelle Probleme frühzeitig zu erkennen und anzugehen. Dies könnte in Form von wöchentlichen oder monatlichen Rückblicken geschehen, um zu sehen, was gut lief und wo Verbesserungen vorgenommen werden können. Eine klare Struktur und regelmäßige Überprüfungen können dazu beitragen, die Produktivität weiter zu steigern und die Qualität der Arbeit zu verbessern.
 
 
 
-## Geeignete Projekte für die nahe Zukunft.👍
-# 05.04.2024
+# Geeignete Projekte für die nahe Zukunft.👍
+## 05.04.2024
 
 1. Was ich mir als Ziel setzen möchte ist, mich viel mit HTML austoben. Passend zu unserem Modul nach den Ferien müssen wir es uns so oder so erarbeiten.
 2. Natürlich weitere C#-Spiele entwickeln, erarbeiten oder erfinden und weitere Kenntnisse mit C# haben und machen.
