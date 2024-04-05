@@ -162,6 +162,7 @@ Ein Verbesserungsvorschlag für zukünftige Perioden könnte sein, sich darauf z
 
 
 ## Geeignete Projekte für die nahe Zukunft.👍
+# 05.04.2024
 
 1. Was ich mir als Ziel setzen möchte ist, mich viel mit HTML austoben. Passend zu unserem Modul nach den Ferien müssen wir es uns so oder so erarbeiten.
 2. Natürlich weitere C#-Spiele entwickeln, erarbeiten oder erfinden und weitere Kenntnisse mit C# haben und machen.
